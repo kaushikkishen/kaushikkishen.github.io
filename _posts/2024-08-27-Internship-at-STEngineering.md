@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data Analysis, Predictive Analytics and Dashboarding Mission Critical Systems
-image: "/posts/BACS.jpg"
+image: "/posts/BACS.jpeg"
 tags: [Python,Machine Learning, Classification,Tableau, Data Viz]
 ---
 
@@ -13,7 +13,7 @@ tags: [Python,Machine Learning, Classification,Tableau, Data Viz]
 To leverage data analytics to enhance operational efficiency and provide actionable insights for maintaining mission-critical systems at ST Engineering.
 
 <br>
-![alt text](/img/posts/Kaushik_Asok_BACS 2023 Poster_updated.jpg "Internship Poster")
+![alt text](/img/posts/Kaushik_Asok_BACS_2023_Poster_updated.jpg "Internship Poster")
 
 <br>
 #Internship Experience

@@ -21,18 +21,18 @@ Duration: May 2023 – August 2023
 
 ### Process Overview:
 
-*Incident Ticket: Description of the issue.
-*Analysis: Remote resolution or task engineer assignment.
-*Onsite: Onsite or workshop rectification.
-*Workshop: Root cause analysis and rectification.
+* Incident Ticket: Description of the issue.
+* Analysis: Remote resolution or task engineer assignment.
+* Onsite: Onsite or workshop rectification.
+* Workshop: Root cause analysis and rectification.
 
 <br>
 
 ### Key Responsibilities:
 
-*Developed visualizations using Tableau to offer actionable insights.
-*Implemented NLP techniques for document similarity search to optimize average remote resolution time.
-*Created a user interface using Streamlit to demonstrate proof of concept.
+* Developed visualizations using Tableau to offer actionable insights.
+* Implemented NLP techniques for document similarity search to optimize average remote resolution time.
+* Created a user interface using Streamlit to demonstrate proof of concept.
 
 <br>
 
@@ -43,16 +43,16 @@ Tools Used:Tableau
 
 ### Approach:
 <br>
-*Collected and preprocessed operational data.
-*Designed and developed dashboards.
-*Highlighted key metrics and trends for stakeholders.
+* Collected and preprocessed operational data.
+* Designed and developed dashboards.
+* Highlighted key metrics and trends for stakeholders.
 <br>
 
 ### Outcomes:
 <br>
-*Provided stakeholders with a clear understanding of system operations.
-*Identified areas for operational improvements.
-*Enhanced decision-making through data-driven insights.
+* Provided stakeholders with a clear understanding of system operations.
+* Identified areas for operational improvements.
+* Enhanced decision-making through data-driven insights.
 <br>
 
 ___
@@ -64,21 +64,21 @@ Tools Used: Python (NLP libraries), Streamlit
 
 ### Approach:
 
-*Developed a proof of concept for document similarity search.
-*Created an interface using Streamlit to demonstrate the concept.
-*Implemented NLP techniques to address user-reported issues effectively.
+* Developed a proof of concept for document similarity search.
+* Created an interface using Streamlit to demonstrate the concept.
+* Implemented NLP techniques to address user-reported issues effectively.
 
 ### Outcomes:
 
-*Reduced average resolution time by identifying similar issues and solutions quickly.
-*Improved efficiency in handling user-reported issues.
-*Demonstrated potential for broader application within the organization.
+* Reduced average resolution time by identifying similar issues and solutions quickly.
+* Improved efficiency in handling user-reported issues.
+* Demonstrated potential for broader application within the organization.
 
 ___
 
 ### Key Takeaways
 
-*Technical Skills: Enhanced proficiency in Tableau, NLP techniques, and Python.
-*Analytical Thinking: Developed ability to translate data into actionable insights.
-*Problem-Solving: Improved skills in identifying and solving complex issues using data analytics.
-*Collaboration: Gained experience in working with cross-functional teams and communicating insights effectively.
+* Technical Skills: Enhanced proficiency in Tableau, NLP techniques, and Python.
+* Analytical Thinking: Developed ability to translate data into actionable insights.
+* Problem-Solving: Improved skills in identifying and solving complex issues using data analytics.
+* Collaboration: Gained experience in working with cross-functional teams and communicating insights effectively.

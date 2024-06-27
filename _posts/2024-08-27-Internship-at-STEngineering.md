@@ -16,10 +16,10 @@ To leverage data analytics to enhance operational efficiency and provide actiona
 ![alt text](/img/posts/Kaushik_Asok_BACS_2023_Poster_updated.jpg "Internship Poster")
 
 <br>
-#Internship Experience
+# Internship Experience
 Duration: May 2023 – August 2023
 
-###Process Overview:
+### Process Overview:
 
 *Incident Ticket: Description of the issue.
 *Analysis: Remote resolution or task engineer assignment.
@@ -27,7 +27,8 @@ Duration: May 2023 – August 2023
 *Workshop: Root cause analysis and rectification.
 
 <br>
-###Key Responsibilities:
+
+### Key Responsibilities:
 
 *Developed visualizations using Tableau to offer actionable insights.
 *Implemented NLP techniques for document similarity search to optimize average remote resolution time.
@@ -35,18 +36,19 @@ Duration: May 2023 – August 2023
 
 <br>
 
-#Project 1: Visualizing Operational Data
+# Project 1: Visualizing Operational Data
 Objective:To improve the standards of maintaining mission-critical systems by providing clear, actionable insights through visualizations.
 
 Tools Used:Tableau
 
-###Approach:
+### Approach:
 <br>
 *Collected and preprocessed operational data.
 *Designed and developed dashboards.
 *Highlighted key metrics and trends for stakeholders.
 <br>
-###Outcomes:
+
+### Outcomes:
 <br>
 *Provided stakeholders with a clear understanding of system operations.
 *Identified areas for operational improvements.
@@ -55,18 +57,18 @@ Tools Used:Tableau
 
 ___
 
-#Project 2: NLP for Document Similarity Search
+# Project 2: NLP for Document Similarity Search
 Objective: To optimize the average remote resolution time for mission-critical systems by leveraging NLP techniques.
 
 Tools Used: Python (NLP libraries), Streamlit
 
-###Approach:
+### Approach:
 
 *Developed a proof of concept for document similarity search.
 *Created an interface using Streamlit to demonstrate the concept.
 *Implemented NLP techniques to address user-reported issues effectively.
 
-###Outcomes:
+### Outcomes:
 
 *Reduced average resolution time by identifying similar issues and solutions quickly.
 *Improved efficiency in handling user-reported issues.
@@ -74,7 +76,7 @@ Tools Used: Python (NLP libraries), Streamlit
 
 ___
 
-###Key Takeaways
+### Key Takeaways
 
 *Technical Skills: Enhanced proficiency in Tableau, NLP techniques, and Python.
 *Analytical Thinking: Developed ability to translate data into actionable insights.

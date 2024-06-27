@@ -43,16 +43,20 @@ Tools Used:Tableau
 
 ### Approach:
 <br>
+
 * Collected and preprocessed operational data.
 * Designed and developed dashboards.
 * Highlighted key metrics and trends for stakeholders.
+
 <br>
 
 ### Outcomes:
 <br>
+
 * Provided stakeholders with a clear understanding of system operations.
 * Identified areas for operational improvements.
 * Enhanced decision-making through data-driven insights.
+
 <br>
 
 ___
